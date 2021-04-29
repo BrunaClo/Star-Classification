@@ -39,7 +39,7 @@ This project consists in predicting the Star Type (dwarf or giant) trought *Clas
  1. Data Gathering
  2. Data Cleaning
  3. Feature Engineering
- 4. Data Analysis and Data Visulaization
+ 4. Data Analysis and Data Visualization
  5. Prediction Preparation \\\ One hot enconding and Standardization
  6. Applying models and evaluating it
  7. Powerpoint presentation
